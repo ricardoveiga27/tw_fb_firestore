@@ -1,0 +1,6 @@
+module Pods_tw_fb_firestore2 {
+  umbrella header "Pods-tw_fb_firestore2-umbrella.h"
+
+  export *
+  module * { export * }
+}
