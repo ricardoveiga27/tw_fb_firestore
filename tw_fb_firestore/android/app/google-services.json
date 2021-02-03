@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "156786154289",
+    "project_id": "tw-firestore",
+    "storage_bucket": "tw-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156786154289:android:ac855c2bb748b5b02d6e10",
+        "android_client_info": {
+          "package_name": "com.tw_fb_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156786154289-ujlp8mo9c8evb1k485s7kip273ov94gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXtOTW7t0B8qVbRAjn995Jx4MlSTprlsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156786154289-ujlp8mo9c8evb1k485s7kip273ov94gi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156786154289-nkrmtrnnv7pabgmbut5ipirvlei40q9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.tw-fb-firestore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
